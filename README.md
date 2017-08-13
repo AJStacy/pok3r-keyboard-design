@@ -3,6 +3,8 @@
 In the repo is an Adobe Illustrator (.ai) file that I custom designed for my
 Vortex RGB Pok3r 61-key mechanical keyboard.
 
+![The Keyboard Design](https://raw.githubusercontent.com/AJStacy/pok3r-keyboard-design/master/keyboard.jpg)
+
 + My keyboard design takes some inspiration from the Apple keyboard in how it lays out symbols.
 + It takes inspiration from the original RGB Pok3r keys for symbols representing keys such as Return and Shift.
 + I incorporated icons from my favorite game, Minecraft, for fun.
